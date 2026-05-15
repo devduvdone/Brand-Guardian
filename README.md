@@ -83,5 +83,6 @@ complianceqapipeline/
 ├── pyproject.toml             # Python dependencies and project metadata
 ├── uv.lock                    # Dependency lockfile
 └── README.md                  # Project documentation
-🤝 Contributing
+
+# 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
